@@ -1,4 +1,4 @@
 ## Especialización Tecnológica
-### Nombre:
+### Nombre: Jerald Vega
 ## Repositorios desafíos:
 * [Desafío 1] 
